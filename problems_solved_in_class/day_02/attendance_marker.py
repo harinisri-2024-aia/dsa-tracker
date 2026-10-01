@@ -1,3 +1,9 @@
+#Attendance marker - 0 for absent and 1 for present for N students
+
+#Different levels of difficulties:
+#- Input Validation
+#- Linear Time
+#- Using data as String only
 attendance = [1, 1, 0, 1, 0, 1, 1, 0]
 
 absent = 0

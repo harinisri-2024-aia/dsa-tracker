@@ -1,3 +1,11 @@
+#Average of Odd numbers and Even numbers
+
+#Different levels of difficulties:
+#- Input Validation
+#- Output round off to 2 decimal places
+
+
+
 arr = [1, 2, 3, 4, 5, 6]
 
 odd_sum = 0
